@@ -1,1 +1,1 @@
-# Calculator
+A Calculater Project with basic arithmetic operations functionalities like addition, subtraction, multiplication, and division built with the essential knowledge of HTML, CSS, and JavaScript. Designed a user interface with buttons for entering data and a display screen for displaying the results.
